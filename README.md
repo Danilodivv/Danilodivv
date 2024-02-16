@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey👋!, I'm Danilo
 
-<!--
-**Danilodivv/Danilodivv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="600" height="381">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const danilodivv = {
+  pronouns: "He" | "Him",
+  askMeAbout: ["app dev", "web dev", "tech"],
+  technologies:{
+    backEnd: ["nodejs", "java"],
+    code: ["JavaScript", "HTML", "CSS"],
+    DBMS: ["MySQL", "MongoDB"],
+    tools: ["React", "Styled-Components"]
+  }
+}
